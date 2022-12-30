@@ -1,8 +1,13 @@
 # Weather_app
 # Run the Weather app by following the steps below:
-Step 1: Open the vs code and locate the directory of the folder
-Step 2: Open the terminal of vs code by pressing cntrl+j
-Step 3: Encode "npm start"
+
+Afte cloning or downloading the zip file;
+
+Step 1: Open the vs code and locate the directory of the folder.
+
+Step 2: Open the terminal of vs code by pressing cntrl+j.
+
+Step 3: Encode "npm start".
 
 below will appear:
 > weatherapp@1.0.0 start
