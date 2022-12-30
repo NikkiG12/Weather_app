@@ -1,5 +1,5 @@
 # Weather_app
-# Run the Weather app by following the steps below:
+# Run the Chat app by following the steps below:
 
 Afte cloning or downloading the zip file;
 
@@ -16,6 +16,6 @@ below will appear:
 Server is up and running on port:  3000
 
 Step 4: Once the "Server is up and running on port: 3000" appear, go to your browser and search for "localhost:3000"
-Step 5: Then search to the search tab the location you want to determine the weather condition.
 
 Make sure that the inner folder is selected before running "npm start" to avoid error output
+
